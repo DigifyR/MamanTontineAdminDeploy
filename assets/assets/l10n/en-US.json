@@ -179,5 +179,14 @@
   "Select_Language": "Select Language",
   "Automatic_based_on_system": "Automatic (based on system)",
   "Recent": "Recent",
-  "Choose_language": "Choose language"
+  "Choose_language": "Choose language",
+  "user_unreachable": "User unreachable",
+  "suspicion_of_fraud": "Suspicion of fraud",
+  "duplicate_request": "Duplicate request",
+  "invalid_id_document": "Invalid ID document",
+  "unreadable_id_document": "Unreadable ID document",
+  "mismatch_of_information": "Mismatch of information",
+  "non_compliant_selfie": "Non-compliant selfie",
+  "forged_or_suspicious_document": "Forged or suspicious document",
+  "other": "Other (Provide details)"
 }

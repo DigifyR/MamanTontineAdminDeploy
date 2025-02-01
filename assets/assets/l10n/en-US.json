@@ -188,5 +188,7 @@
   "mismatch_of_information": "Mismatch of information",
   "non_compliant_selfie": "Non-compliant selfie",
   "forged_or_suspicious_document": "Forged or suspicious document",
-  "other": "Other (Provide details)"
+  "other": "Other (Provide details)",
+  "Payment" : "payment",
+  "Settings" : "Settings"
 }

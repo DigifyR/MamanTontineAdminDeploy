@@ -49,7 +49,7 @@
   "Birthday": "Date de naissance",
   "Detail": "Détail",
   "Search": "Rechercher",
-  "Are_you_sure_you_are_deleting_this_user": "Êtes-vous sûr de vouloir supprimer cet utilisateur ?",
+  "Are_you_sure_you_are_deleting_this_user": "Êtes-vous sûr de vouloir vous déconnecter ?",
   "Delete": "Supprimer",
   "User_Detail": "Détail de l'utilisateur",
   "Active_balance": "Solde actif",
@@ -188,7 +188,9 @@
   "non_concordance_des_informations": "Non-concordance des informations",
   "selfie_non_conforme": "Selfie non conforme",
   "document_falsifie_ou_suspect": "Document falsifié ou suspect",
-  "autre": "Autre (Donner détails)"
+  "autre": "Autre (Donner détails)",
+  "Payment" : "Paiement",
+  "Settings" : "Paramètres"
 }
 
 

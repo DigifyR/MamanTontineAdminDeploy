@@ -190,5 +190,6 @@
   "forged_or_suspicious_document": "Forged or suspicious document",
   "other": "Other (Provide details)",
   "Payment" : "payment",
-  "Settings" : "Settings"
+  "Settings" : "Settings",
+  "Do_you_confirm_this" : "Do you confirm this"
 }

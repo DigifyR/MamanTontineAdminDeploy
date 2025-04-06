@@ -181,16 +181,17 @@
   "Recent": "Récent",
   "Choose_language": "Choisir la langue",
   "user_unreachable": "Utilisateur injoignable",
-  "suspicion_de_fraude": "Suspicion de fraude",
-  "demande_en_double": "Demande en double",
-  "piece_d_identite_invalide": "Pièce d’identité invalide",
-  "piece_d_identite_illisible": "Pièce d’identité illisible",
-  "non_concordance_des_informations": "Non-concordance des informations",
-  "selfie_non_conforme": "Selfie non conforme",
-  "document_falsifie_ou_suspect": "Document falsifié ou suspect",
-  "autre": "Autre (Donner détails)",
+  "suspicion_of_fraud": "Suspicion de fraude",
+  "duplicate_request": "Demande en double",
+  "invalid_id_document": "Pièce d’identité invalide",
+  "unreadable_id_document": "Pièce d’identité illisible",
+  "mismatch_of_information": "Non-concordance des informations",
+  "non_compliant_selfie": "Selfie non conforme",
+  "forged_or_suspicious_document": "Document falsifié ou suspect",
+  "other": "Autre (Donner détails)",
   "Payment" : "Paiement",
-  "Settings" : "Paramètres"
+  "Settings" : "Paramètres",
+  "Do_you_confirm_this" : "Confirmez-vous cela"
 }
 
 

@@ -225,7 +225,9 @@
   "noRequest": "Aucune demande pour le moment !",
   "noFaqs": "Aucune FAQ pour le moment !",
   "noCommission": "Aucune commission générée",
-  "Pay_now" : "Payer maintenant"
+  "Pay_now" : "Payer maintenant",
+  "wants_to_become_a" : " souhaite devenir",
+  "DeletedAccounts" : "Comptes supprimés"
 }
 
 

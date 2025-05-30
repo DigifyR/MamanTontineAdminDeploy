@@ -227,7 +227,12 @@
   "noCommission": "Aucune commission générée",
   "Pay_now" : "Payer maintenant",
   "wants_to_become_a" : " souhaite devenir",
-  "DeletedAccounts" : "Comptes supprimés"
+  "DeletedAccounts" : "Comptes supprimés",
+  "Insufficient_balance": "Solde insuffisant",
+  "Select_reception_method": " Sélectonner un mode de réception",
+  "pay_dialog_title": "Tous les membres n’ont pas encore cotisé pour ce tour",
+  "pay_dialog_content": "Souhaitez-vous quand même payer ?",
+  "pay_dialog_proceed": "Payer quand même"
 }
 
 

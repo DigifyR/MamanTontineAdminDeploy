@@ -483,5 +483,9 @@
   "pay_dialog_proceed": "Pay Anyway",
   "Unpaid": "UnPaid",
   "Poured": "Poured",
-  "payment_status": "Payment Status"
+  "payment_status": "Payment Status",
+  "Custom": "Custom",
+  "Select_Date_Range": "Select Date Range",
+  "Apply": "Apply"
+
 }

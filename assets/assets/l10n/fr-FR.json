@@ -235,7 +235,10 @@
   "pay_dialog_proceed": "Payer quand même",
   "Unpaid": "Non payé",
   "Poured": "Versé",
-  "payment_status": "Statut de paiements"
+  "payment_status": "Statut de paiements",
+  "Custom": "Personnaliser",
+  "Select_Date_Range": "Sélectionner une plage de date",
+  "Apply": "Valider"
 }
 
 

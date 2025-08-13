@@ -232,7 +232,10 @@
   "Select_reception_method": " Sélectonner un mode de réception",
   "pay_dialog_title": "Tous les membres n’ont pas encore cotisé pour ce tour",
   "pay_dialog_content": "Souhaitez-vous quand même payer ?",
-  "pay_dialog_proceed": "Payer quand même"
+  "pay_dialog_proceed": "Payer quand même",
+  "Unpaid": "Non payé",
+  "Poured": "Versé",
+  "payment_status": "Statut de paiements"
 }
 
 

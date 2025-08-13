@@ -460,7 +460,6 @@
   "earning_statistics": "Earning Statistics",
   "store": "STORE",
   "go_to_consumer_app": "Go To Consumer App",
-  "payment_status": "Payment Status",
   "notification": "Notification",
   "generate_qr_code": "Generate QR Code",
   "update_your_cover": "Update your cover",
@@ -481,5 +480,8 @@
   "withdraw": "Withdraw",
   "pay_dialog_title": "Not all members have contributed yet",
   "pay_dialog_content": "Do you still want to proceed with the payment?",
-  "pay_dialog_proceed": "Pay Anyway"
+  "pay_dialog_proceed": "Pay Anyway",
+  "Unpaid": "UnPaid",
+  "Poured": "Poured",
+  "payment_status": "Payment Status"
 }
